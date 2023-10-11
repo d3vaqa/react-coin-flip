@@ -1,0 +1,40 @@
+.Flip{
+    display: flex;
+    flex-direction: column;
+    max-width: 250px;
+    align-items: center;
+    align-content: center;
+    margin: 20% auto;
+    background-color: #ececec;
+    border-radius: 12px;
+}
+
+.Flip p{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+
+.Flip button{
+    background-color: #ed4b89;
+    border-radius: 8px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    border-style: none;
+    cursor: pointer;
+    font-size: 17px;
+    list-style: none;
+    padding: 15px 35px;
+    text-align: center;
+    text-decoration: none;
+    margin:2em auto;
+    opacity: 0.8;
+
+  }
+  .Flip button:hover{
+    opacity: 1;
+  }
+
+
+
